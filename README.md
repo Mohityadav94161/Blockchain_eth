@@ -28,4 +28,12 @@
   "extraData": "",
   "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "nonce": "0x0"
-}
+}```
+
+4. #a lloc: A list of account addresses and their initial balance. These are the accounts that will have Ether initially.
+coinbase: The address of the account that will receive mining rewards.
+difficulty: The difficulty level for mining blocks.
+gasLimit: The maximum amount of gas that can be used in a block.
+timestamp: The timestamp for the genesis block.
+config: Network-specific configuration options.
+nonce: A random value used in the proof-of-work algorithm.
