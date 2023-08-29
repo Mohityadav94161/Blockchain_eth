@@ -1,4 +1,4 @@
-# Create your own Private Network in Ethereum 
+# Genesis.json/Create your own Private Network in Ethereum 
  1. Install goethereum
  2. make a genesis block so for that lets make genesis.json file
  3. Below is file content
