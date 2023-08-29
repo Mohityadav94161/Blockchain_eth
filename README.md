@@ -66,7 +66,7 @@ A hash used in Ethereum's proof-of-work algorithm. For a private network, this c
 A random value used in Ethereum's proof-of-work algorithm. Similar to mixHash, you can set this to a predefined value for a private network.
 
 
-4.
+4. </br>
 
  ```
    open terminal and move to the loction of this genesis.json file folder
