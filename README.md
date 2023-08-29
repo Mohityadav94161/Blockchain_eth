@@ -3,7 +3,7 @@
  2. make a genesis block so for that lets make genesis.json file
  3. Below is file content
 
-'''  {
+```{
   "config": {
     "chainId": 1267,   
     "homesteadBlock": 0,
@@ -28,4 +28,4 @@
   "extraData": "",
   "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "nonce": "0x0"
-}'''
+}```
