@@ -36,7 +36,7 @@
 
 * **chainId** *:
 An integer representing the chain ID for the network. It's a unique identifier for your network. For a private network, you can choose any number, but make sure it's distinct from Ethereum's mainnet and other testnets.
-* **homesteadBlock, eip155Block, eip158Block, byzantiumBlock, constantinopleBlock, petersburgBlock, istanbulBlock:** *
+* **homesteadBlock, eip155Block, eip158Block, byzantiumBlock, constantinopleBlock, petersburgBlock, istanbulBlock:** 
 These parameters determine at which block numbers specific Ethereum improvement protocols (EIPs) should be activated. Setting them all to 0 means these protocols are active from the genesis block.
 difficulty: A string representing the difficulty level for mining blocks. For a private network, you can typically set this to a low value, as mining will be easier compared to the main Ethereum network.
 
