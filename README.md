@@ -69,7 +69,7 @@ A random value used in Ethereum's proof-of-work algorithm. Similar to mixHash, y
 4. </br>
 
  ```
-   open terminal and move to the loction of this genesis.json file folder
+   open terminal and move to the location of this genesis.json file folder
    geth init genesis.json  
    ```
 
